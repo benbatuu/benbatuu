@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at <a href="https://dnatech.io/">DNA Technology</a> & <a href="https://brand-wallet.com/">BrandWallet</a><br>👯 I’m looking to collaborate on Back-end, Front-end or Mobile Development<br>🌱 I’m currently learning Mobile and Back-end Development process<br>💬 You can ask me about anything.
+🔭 I’m currently working at <a href="https://dnatech.io/" target="_blank">DNA Technology</a> & <a href="https://brand-wallet.com/" target="_blank">BrandWallet</a><br>👯 I’m looking to collaborate on Back-end, Front-end or Mobile Development<br>🌱 I’m currently learning Mobile and Back-end Development process<br>💬 You can ask me about anything.
 
 
 ## 🌐 Socials:
