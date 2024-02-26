@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at DNA Technology & BrandWallet<br>🤝 I’m looking for help with Typescript, Node JS & React JS<br>🌱 I’m currently learning Typescript, Node JS & React JS<br>💬 Ask me about Typescript, Node JS & React JS, BUN, Hono JS, Prisma ORM etc.
+🔭 I’m currently working at <a href="https://dnatech.io/">DNA Technology</a> & <a href="https://brand-wallet.com">BrandWallet</a><br>🤝 I’m looking for help with Typescript, Node JS & React JS<br>🌱 I’m currently learning Typescript, Node JS & React JS<br>💬 Ask me about Typescript, Node JS & React JS, BUN, Hono JS, Prisma ORM etc.
 
 
 ## 🌐 Socials:
